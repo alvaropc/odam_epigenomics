@@ -1,5 +1,5 @@
 ﻿# odam_epigenomics
-Practises in R and Python of epigenomics subject. Omics data analysis Master.
+Practises in R of epigenomics subject. Omics data analysis Master.
 
 # Álvaro Ponce Cabrera 
 
